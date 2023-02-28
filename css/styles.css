@@ -400,6 +400,7 @@ footer {
 	box-sizing: border-box;
 	width: 360px;
 	margin: 0;
+	cursor: pointer;
 }
 
 .content-border {
