@@ -206,7 +206,7 @@ use {
 
 	padding-top: 24px;
 	padding-bottom: 24px;
-	background-image: url(/images/icon-background.svg);
+	background-image: url(../images/icon-background.svg);
 	background-size: cover;
 }
 
