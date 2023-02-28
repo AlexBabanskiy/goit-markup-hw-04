@@ -538,3 +538,13 @@ footer {
 .footer-section {
 	width: 264px;
 }
+
+.footer-links-item {
+	cursor: pointer;
+}
+
+.footer-links-item:hover,
+.footer-links-item:focus {
+	background-color: #31d0aa;
+	border-radius: 50%;
+}
